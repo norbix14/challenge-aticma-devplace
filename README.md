@@ -2,5 +2,5 @@
 
 ## Desafíos
 
-* [Automarket](automarket/README.md "Landing page con HTML y CSS")
-* [JavaScript](javascript/README.md "Ejercicios de JavaScript")
+* [Automarket](automarket#README.md "Landing page con HTML y CSS")
+* [JavaScript](javascript#README.md "Ejercicios de JavaScript")
