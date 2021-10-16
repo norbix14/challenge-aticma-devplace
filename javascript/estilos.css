@@ -1,0 +1,16 @@
+.contenedor {
+  padding: 1rem;
+}
+.center {
+  text-align: center;
+}
+
+.ejercicios {
+  text-align: center;
+  padding: 1rem;
+  border: 1px solid #eee;
+}
+button {
+  padding: 0.5rem;
+  margin: 1rem auto;
+}
